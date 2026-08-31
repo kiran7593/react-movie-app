@@ -1,5 +1,12 @@
 # 🎬 React Movie Finder
 
+<table>
+  <tr>
+    <td><img src="./movie-finder-search.png" alt="Movie Finder search results" /></td>
+    <td><img src="./movie-finder-details.png" alt="Movie Finder movie details" /></td>
+  </tr>
+</table>
+
 A responsive movie search application built with React and the OMDb API.
 
 ## Features

@@ -1,5 +1,7 @@
 # 🎬 React Movie Finder
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20App-blue)](https://react-movie-app-two-flame.vercel.app/)
+
 <table>
   <tr>
     <td><img src="./movie-finder-search.png" alt="Movie Finder search results" /></td>
